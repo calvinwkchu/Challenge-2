@@ -8,8 +8,7 @@ Both codes were able to function as required for the analysis using different al
 <img src="Resources/VBA_Challenge_2017(original).png"> 
 <img src="Resources/VBA_Challenge_2018(original).png"> 
 
-
-The refactored code essentially runs the entire dataset once by assigning a unique value for each ticker and is therefore to separate that information. Below is the key logic in the code and the computing time.
+The refactored code essentially runs the entire dataset once by assigning a unique value for each ticker and is used to separate that information. Below is the key logic in the code and the computing time.
 
 <img src="Resources/VBA_Challenge_Refactored.png"> 
 <img src="Resources/VBA_Challenge_2017.png"> 
